@@ -1,4 +1,4 @@
-#include <iostream> // this simple app for calculate two name lenght and combination it
+#include <iostream> // this simple app for calculate two name length and combination it
 #include <string>
 using namespace std;
 
